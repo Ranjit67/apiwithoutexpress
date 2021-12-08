@@ -11,9 +11,17 @@ require("http")
       res.writeHead(200, headers);
       // res.write('Hello World');
       res.end(JSON.stringify({ data }));
+    } else if (
+      req.url.match(/\/getData\/([a-z0-9]+)/) &&
+      req.method === "GET"
+    ) {
+      const id = req.url.split(`/`).reverse()[0];
+      const findData = data.find((item) => item.id == id);
+      res.writeHead(200, headers);
+      res.end(JSON.stringify({ data: findData }));
     }
   })
-  .listen(process.env.PORT || 3000, () => {
+  .listen(process.env.PORT || 5000, () => {
     console.log("Server is running on port 3000");
   });
 
