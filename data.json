@@ -1,0 +1,92 @@
+
+     [
+      {
+          "id":1,
+        "name" : "Apple",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/265px-Red_Apple.jpg",
+        "price" : 35
+      },
+      {
+        "id":2,
+        "name" : "Banana",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bananas_white_background_DS.jpg/320px-Bananas_white_background_DS.jpg",
+        "price" : 12
+      },
+      {
+        "id":3,
+        "name" : "Grapes",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/320px-Table_grapes_on_white.jpg",
+        "weight": 0.1,
+        "price" : 45
+      },
+      {
+        "id":4,
+        "name" : "Pineapple",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pineapple_and_cross_section.jpg/286px-Pineapple_and_cross_section.jpg",
+        "price" : 200
+      },
+      {
+        "id":5,
+        "name" : "Strawberry",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/kc3p30w0/fruit/k/b/g/200-un-branded-whole-original-imafgfmhzhrkgzm2.jpeg?q=70",
+        "price" : 20
+      },
+      {
+        "id":6,
+        "name" : "Orange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/kj8wccw0/fruit/g/d/d/500-un-branded-whole-original-imafyv2nuuhqp5yz.jpeg?q=70",
+        "price" : 50
+      },
+      {
+        "id":7,
+        "name" : "Watermelon",
+        "image" : "https://media.istockphoto.com/photos/whole-and-half-watermelon-isolated-on-white-background-picture-id1306970136?b=1&k=20&m=1306970136&s=170667a&w=0&h=l1a2PSX_aiBKrwmyvHDvVQAM6Dwfyx9ZVyY4GKWnp6o=",
+        "price" : 70
+      },
+      {
+        "id":8,
+        "name" : "Papaya",
+        "image" : "https://media.istockphoto.com/photos/whole-and-half-of-ripe-papaya-fruit-with-seeds-isolated-on-white-picture-id864053288?b=1&k=20&m=864053288&s=170667a&w=0&h=IsyLu5b7vvJycnyLcQwBGv88BOXMZub_W5AyM9mvps0=",
+        "price" : 50
+      },
+      {
+        "id":9,
+        "name" : "Mango",
+        "image" : "https://media.istockphoto.com/photos/mangoes-composition-picture-id1272010307?b=1&k=20&m=1272010307&s=170667a&w=0&h=ZjJ85mpjAr__adYT7zqSdYEDi1XvWiqgtVLqNYIDtkw=",
+        "price" : 60
+      },
+      {
+        "id":10,
+        "name" : "Coconut",
+        "image" : "https://media.istockphoto.com/photos/coconut-tree-picture-id598671804?b=1&k=20&m=598671804&s=170667a&w=0&h=Eu1w6Gj_GjGE943rtnYnJkXzrnKUSzu-avM2nQsQY1Y=",
+        "price" : 80
+      },
+      {
+        "id":11,
+        "name" : "Pomegranate",
+        "image" : "https://media.istockphoto.com/photos/pomegranate-seeds-picture-id475373289?b=1&k=20&m=475373289&s=170667a&w=0&h=u_Pn5QQcV88P80eKhOzw4kA6rj5KqHicZdgNa49UgCw=",
+        "price" : 90
+      },
+      {
+        "id":12,
+        "name" : "Lemon",
+        "image" : "https://media.istockphoto.com/photos/lemon-fruit-with-half-and-leaves-isolated-on-white-picture-id466175634?b=1&k=20&m=466175634&s=170667a&w=0&h=Kh5stqxVcyVKXalACSLxtMMPYNPwQR1yxWogp_C1v2A=",
+        "price" : 100
+      },
+      {
+        "id":13,
+        "name" : "Kiwi",
+        "image" : "https://media.istockphoto.com/photos/kiwifruit-picture-id186858235?b=1&k=20&m=186858235&s=170667a&w=0&h=66OmIdAxw9669UELK8vHSYHX0ujDKcXTwq5aLLLSKSQ=",
+        "price" : 110
+      },
+      {
+          "id":14,
+          "name":"Carrot",
+          "image":"https://media.istockphoto.com/photos/carrots-picture-id92026520?b=1&k=20&m=92026520&s=170667a&w=0&h=yRJs1pZdMGQdCaAv2HGT7ze302tGoj_2Qd8sMWqOzXc=",
+            "price":120
+      }
+     
+     
+     
+    ]
+  
